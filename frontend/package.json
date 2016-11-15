@@ -1,0 +1,10 @@
+{
+  "name": "webmonkeys-mean-stack-frontend",
+  "version": "1.0.0",
+  "authors": [
+    "sskhandek <sskhandek@gmail.com>"
+  ],
+  "dependencies": {
+    "express": "^4.11.1"
+  }
+}
